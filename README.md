@@ -1,4 +1,4 @@
-## Olá! Eu sou o drhrf!
+## Olá! Eu sou o Hércules!
 
 - 👀 Estou interessado em R e Python para análise de dados científicos
 - 🌱 Estou aprendendo R, Python e SQL
