@@ -1,7 +1,6 @@
 ## Olá, eu sou o Hércules!
 
 - 👀 Estou interessado em R e Python para análise de dados científicos
-- 🌱 Estou aprendendo R, Python e SQL
 - 💞️ Tenho interesse em colaborações na área de estatística e análise de dados com R e Python
 - 📫 Entre em contato comigo pelo [Linkedin](https://br.linkedin.com/in/proffreitashr)
 
