@@ -23,7 +23,7 @@ Faculty of Medical Sciences · Rio de Janeiro State University (FCM/UERJ)
 <h2>Current positions</h2>
 
 <ul>
-  <li><b>Associate Professor of Research Methodology</b> — Faculty of Medical Sciences, Rio de Janeiro State University (FCM/UERJ)</li>
+  <li><b>Professor (tenured) of Research Methodology</b> — Faculty of Medical Sciences, Rio de Janeiro State University (FCM/UERJ)</li>
   <li><b>Research Coordinator</b> — FCM/UERJ, Cabo Frio campus</li>
   <li><b>Head of the Health Informatics Laboratory</b> — <a href="https://www.labinfos.org/">LabInfoS</a></li>
   <li><b>Head of the Bertrand Russell Center for Scientific Excellence</b> — NEC/UERJ</li>
